@@ -1,0 +1,68 @@
+.upload-image{
+    width: 120px;
+    height: 130px;
+    padding: 10px;
+   background-color: rgb(201, 202, 203);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 2%;
+}
+.image{
+    height: 100px;
+    width: 100px;
+    
+}
+.logo{
+    font-family: "Roboto";
+    font-size: 100%;
+    font-weight: normal;
+    margin: 2%;
+}
+.input-el{
+    width: 100px;
+    height: 50px;
+    border: 1px solid #0000;
+    outline: none;
+}
+.main-container{
+    margin: 5%;
+   
+   
+}
+.top-container{
+    display: flex;
+    justify-content: space-between;
+    background-size: 100%;
+}
+.id{
+    display: flex;
+}
+.hash{
+ margin-right: 10px;
+ margin-top: 5px;
+    align-items: center;
+    background-color: rgb(201, 206, 206);
+    
+}
+.main-input-el{
+    padding: 1%;
+    margin: 10px;
+    width: 90%;
+    font-size: 100%;
+    outline: none;
+}
+.main-input-el:hover{
+    border:2px solid #2d9217;
+}
+/* .main-input-el:focus{
+    border:2px solid #2d9217;
+} */
+.items{
+    display: flex;
+    background-color: #082501;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    justify-content: space-between;
+}
+
